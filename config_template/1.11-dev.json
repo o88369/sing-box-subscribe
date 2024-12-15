@@ -328,7 +328,7 @@
         "tag":"HongKong",
         "type":"selector",
         "outbounds":[
-          "{all}"
+          "{airport1_tag}"
         ],
         "filter":[
           {"action":"include","keywords":["🇭🇰|HK|hk|香港|港|HongKong"]}
@@ -338,7 +338,7 @@
         "tag":"TaiWan",
         "type":"selector",
         "outbounds":[
-          "{机场1}"
+          "{all}"
         ],
         "filter":[
           {"action":"include","keywords":["🇹🇼|TW|tw|台湾|臺灣|台|Taiwan"]}
