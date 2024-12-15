@@ -328,7 +328,7 @@
         "tag":"HongKong",
         "type":"selector",
         "outbounds":[
-          "{airport1_tag}"
+          "{all}"
         ],
         "filter":[
           {"action":"include","keywords":["🇭🇰|HK|hk|香港|港|HongKong"]}
@@ -358,7 +358,7 @@
         "tag":"Japan",
         "type":"selector",
         "outbounds":[
-          "{all}"
+          "{gou}"
         ],
         "filter":[
           {"action":"include","keywords":["🇯🇵|JP|jp|日本|日|Japan"]}
