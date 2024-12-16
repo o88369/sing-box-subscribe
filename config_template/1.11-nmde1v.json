@@ -358,7 +358,7 @@
         "tag":"Japan",
         "type":"selector",
         "outbounds":[
-          "{gou}"
+          "{tag_1}"
         ],
         "filter":[
           {"action":"include","keywords":["🇯🇵|JP|jp|日本|日|Japan"]}
