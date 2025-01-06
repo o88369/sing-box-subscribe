@@ -453,8 +453,7 @@
         {
           "ip_is_private": true,
           "outbound": "direct"
-        },
-        {
+        }
       ],
       "rule_set": [
         {
